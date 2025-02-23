@@ -67,3 +67,17 @@ Follow step 1 and 2 of <https://shopify.dev/docs/custom-storefronts/building-wit
 │  Next steps                                                                                                                                                               │
 │                                                                                                                                                                           │
 │    • Run `cd OSC && npm run dev`        
+
+
+
+##
+Deploy on Netlify has 404 and deploy on vercel fails build :)
+
+Dont have much experience deploying Hydrogen, does everything but not sure am missing 
+something as is just: npm create @shopify/hydrogen@latest
+
+I have been ill with cold
+
+Havent implemented unit tests as i will be honest dont have experience with remix at this time, more nextjs/react/angular
+
+I am subitting this but think is maybe cheeky :D
